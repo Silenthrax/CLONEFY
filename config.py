@@ -15,13 +15,13 @@ API_HASH = getenv("API_HASH")
 BOT_TOKEN = getenv("BOT_TOKEN")
 BOT_ID = getenv("BOT_ID")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","its_deva_heree")
+OWNER_USERNAME = getenv("OWNER_USERNAME","SILENTHRAX")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "Sitaramusic_bot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "BESTIE_X_MUSIC_BOT")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "𝐒𝐈𝐓𝐀𝐑𝐀")
+BOT_NAME = getenv("BOT_NAME" , "BESTIE_X_MUSIC_BOT")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "Sitara_assistant")
+ASSUSERNAME = getenv("ASSUSERNAME" , "BESTIE_X_MUSIC")
 # ---------------------------------------------------------
 
 
@@ -38,7 +38,7 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 999999))
 # ----------------------------------------------------------------
 
 # ----------------------------------------------------------------
-LOGGER_ID = int(getenv( "LOGGER_ID" , ""))
+LOGGER_ID = int(getenv( "LOGGER_ID" , "-1002267586320"))
 CLONE_LOGGER = LOGGER_ID
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
