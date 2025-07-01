@@ -22,7 +22,7 @@ gtts
 hachoir
 heroku3
 html2text==2024.2.26
-httpx==0.28.1
+httpx==0.25.1
 img2pdf
 instaloader
 lexica-api
